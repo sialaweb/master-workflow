@@ -1,15 +1,13 @@
 @import "compass";
-@import "_bootstrap-variables.sass";
-@import "assets/stylesheets/_bootstrap.scss";
+@import "assets/stylesheets/bootstrap/mixins";
 @import "assets/stylesheets/bootstrap/_variables.scss";
+@import "_bootstrap-variables.sass";
 
 // fonts ejemplo con ayuda de compass para mas info en youtube levelup tuts 
-/***fuentes***/
 
 // @include font-face("loveloblack", font-files("lovelo_black-webfont.eot", "lovelo_black-webfont.eot?#iefix", "lovelo_black-webfont.woff2", "lovelo_black-webfont.woff", "lovelo_black-webfont.ttf", "lovelo_black-webfont.svg#loveloblack"));
 
 // aqui fuentes de font-face normal
-
 
 
 // MI CONTENIDO
